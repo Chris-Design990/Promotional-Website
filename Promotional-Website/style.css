@@ -1,0 +1,36 @@
+p {
+	background-color: none;
+}
+
+body {
+	background-color: green;
+	color:#fff;
+}
+
+#special {
+	color: #ff0012;
+}
+
+h1 {
+
+	font-family:sans-serif;
+}
+
+.emphasis {
+	color:black;
+	display: inline-block;
+	width: 100px;
+	text-align: left;
+	vertical-align: top;
+}
+
+
+.demoClass {
+
+	color: yellow;
+}
+
+.organizer {
+
+	text-align: right;
+}
